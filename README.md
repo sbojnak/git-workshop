@@ -11,7 +11,7 @@ Downloading the assignment
 
 The assignment is distributed in form of a git repository hosted on [gitlab.com](https://gitlab.com). For more information about this version control system have a look at [The Git Book](https://git-scm.com/book/en/v2).
 
-## Checking out the assignment
+## Checking out the assignmentadlkjfgafdklgjdfklgj
 
 First you need to create a local clone of this repository using these commands
 
